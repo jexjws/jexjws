@@ -1,4 +1,4 @@
-![KDE wallpaper Autumn](/2560x1600.jpg)
+WTF World
 <!--
 **jexjws/jexjws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
