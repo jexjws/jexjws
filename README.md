@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning pytorch,RLCard,GTK and so on
+- 🌱 I’m currently learning Angular,go,k8s and so on (update on 2024.1.17)
+- 😍 I plan to study pytorch,RLCard,GTK and so on (update on 2024.1.17)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Scratch
