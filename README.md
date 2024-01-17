@@ -27,3 +27,4 @@ revi.cc : ReviOS (精简版 windows,有无需重装系统的安装方式)
 explainshell.com : 解释linux指令   
 fishshell.com  :  类似于 zsh 的 shell , 但开箱即用 , 无需 zsh 那样较繁琐配置    
 [非自由项目] pythontutor.com : 一个可以把python运行流程可视化的网站,对于学习python的某些地方(例如类的继承)很有帮助!
+cockpit-project.org 一款有 Red Hat 赞助开发的一款 web 服务器管理面板（为 Linux、Systemd 量身打造，仅支持一些主流Linux发行版）。
