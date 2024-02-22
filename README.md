@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | Link | Description |
 | ----------- | ----------- |
 |https://pandoc.org | 文件格式互转工具,非常强大 |   
-|https://revi.cc | ReviOS (精简版 windows,有无需重装系统的安装方式)  |  
+|https://revi.cc、https://atlasos.net/ | 精简版 windows,有无需重装系统的安装方式  |  
 |https://explainshell.com | 解释linux指令   |
 |https://fishshell.com | 类似于 zsh 的 shell , 但开箱即用 , 无需 zsh 那样较繁琐配置    |
 |https://pythontutor.com | [非自由项目] 一个可以把python运行流程可视化的网站,对于学习python的某些地方(例如类的继承)很有帮助!该网站还支持“Java, C, C++, and JavaScript”   |
