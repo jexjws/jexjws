@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Scratch
 - 📫 How to reach me: hello_cmd@outlook.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+  - “地球online提醒您：请勿在「NPC」身上浪费太多时间，避免影响玩家自身情绪，祝各位玩家顺利完成自己的主线，游戏愉快。”
 
 
 
