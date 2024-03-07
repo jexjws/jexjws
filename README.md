@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 |https://joplinapp.org | 你的开源开放可跨平台同步赛博笔记本，支持从 Onedrive、webdav、filesystem 等源进行同步，数据由你控制，浏览器拓展（一键把网页内容收藏到选定笔记本中）还有端到端加密功能更是如虎添翼|
 |[flameshot](https://flameshot.org) | 一款截图工具，能把图片贴到桌面上（和Snipaste差不多），主要在Linux上用，windows下怎么样没试过（win下我用Snipaste） |
 |https://github.com/FossifyOrg/Calendar | [仅Android] 一款日历，简洁美观好用 |
-| https://www.crossoverchina.com （crossover中国站） | [仅Mac、Linux][付费软件，我在CN站活动期间买永久Linux版本花了199RMB] 让你的Linux/Mac 系统能运行exe！*CrossOver 是由 CodeWeavers 提供的一个经过打磨的 Wine。CrossOver 使得 Wine 更易于使用，同时 CodeWeavers 为用户提供了极好的技术支持。所有 CrossOver 的销售收入都将被直接用于支持 Wine 开发者。所以使用 CrossOver 可谓一举两得，您在得到使用 Wine 的帮助的同时也可以帮助 Wine 项目的发展。([引用自 WineHQ Wiki](https://wiki.winehq.org/Download_zhcn))* 除了CN站是思杰马克丁这个家伙代理的之外，其他都不错 |
+| https://www.crossoverchina.com （crossover中国站） | [仅Mac、Linux][**付费软件**，我在CN站活动期间买永久Linux版本花了199RMB] 让你的Linux/Mac 系统能运行exe！*CrossOver 是由 CodeWeavers 提供的一个经过打磨的 Wine。CrossOver 使得 Wine 更易于使用，同时 CodeWeavers 为用户提供了极好的技术支持。所有 CrossOver 的销售收入都将被直接用于支持 Wine 开发者。所以使用 CrossOver 可谓一举两得，您在得到使用 Wine 的帮助的同时也可以帮助 Wine 项目的发展。([引用自 WineHQ Wiki](https://wiki.winehq.org/Download_zhcn))* 除了CN站是思杰马克丁这个家伙代理的之外，其他都不错 |
