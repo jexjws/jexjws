@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 |https://cockpit-project.org | 一款有 Red Hat 赞助开发的一款 web 服务器管理面板（为 Linux、Systemd 量身打造，仅支持一些主流Linux发行版）。      |
 |https://joplinapp.org | 你的开源开放可跨平台同步赛博笔记本，支持从 Onedrive、webdav、filesystem 等源进行同步，数据由你控制，浏览器拓展（一键把网页内容收藏到选定笔记本中）还有端到端加密功能更是如虎添翼|
 |[flameshot](https://flameshot.org) | 一款截图工具，能把图片贴到桌面上（和Snipaste差不多），主要在Linux上用，windows下怎么样没试过（win下我用Snipaste） |
+|https://github.com/FossifyOrg/Calendar | 一款日历，简洁美观好用 |
