@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 | https://www.crossoverchina.com （crossover中国站） | [仅Mac、Linux] [**付费软件，卖得还不便宜**：我在CN站活动期间购买 Crossover 24 永久Linux版本 花了 199RMB] 让你的Linux/Mac 系统能运行exe！*CrossOver 是由 CodeWeavers 提供的一个经过打磨的 Wine。CrossOver 使得 Wine 更易于使用，同时 CodeWeavers 为用户提供了极好的技术支持。所有 CrossOver 的销售收入都将被直接用于支持 Wine 开发者。所以使用 CrossOver 可谓一举两得，您在得到使用 Wine 的帮助的同时也可以帮助 Wine 项目的发展。([引用自 WineHQ Wiki](https://wiki.winehq.org/Download_zhcn))* 除了CN站是思杰马克丁这个*代理的之外，其他都不错 |
 | [Linux 101 Docs](https://101.lug.ustc.edu.cn)   | “面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力。” | 
 | [draw.io](https://www.drawio.com)、[gaphor.org](https://gaphor.org) |  [Windows、Linux、 macOS]画UML图工具 |
+| [小企鹅输入法5](https://github.com/fcitx5-android/fcitx5-android) |  [Android]fcitx5移植到了安卓上面，我觉得比Gboard好用。 |
