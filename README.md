@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 | Link | Description |
 | ----------- | ----------- |
+| [super-productivity](https://github.com/johannesjo/super-productivity) | 升级版的 To Do应用 999999值得你一试|
 |https://pandoc.org | 文件格式互转工具,非常强大 |   
 |[https://revi.cc](https://revi.cc)、[https://atlasos.net/](https://atlasos.net) | 精简版 windows,有无需重装系统的安装方式  |  
 |https://explainshell.com | 解释linux指令   |
