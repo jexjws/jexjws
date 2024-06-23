@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 | [Linux 101 Docs](https://101.lug.ustc.edu.cn)   | “面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力。” | 
 | [draw.io](https://www.drawio.com)、[gaphor.org](https://gaphor.org) |  [Windows、Linux、 macOS]画UML图工具 |
 | [小企鹅输入法5](https://github.com/fcitx5-android/fcitx5-android) |  [Android]fcitx5移植到了安卓上面，我觉得比Gboard好用。 |
+|[blanket](https://github.com/rafaelmardojai/blanket)|白噪音生成器|
