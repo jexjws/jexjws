@@ -1,4 +1,4 @@
-WTF World
+T1 . 过好每一天
 
 
 **jexjws/jexjws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,9 +7,22 @@ WTF World
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Angular,go,k8s and so on (update on 2024.1.17)
-- 😍 I plan to study pytorch,RLCard,GTK,nix and so on (update on 2024.1.17)
+- 🔭 I’m currently joined in YangHuaTeam and FairyLightsStudio
+
+- 🌱 I’m currently learning ： (update on 2024.8.9)
+  -  前端：Angular
+  -  后端：go
+    - 框架：go-zero
+    - 消息队列：asynq
+
+- 😍 I plan to try : (update on 2024.8.9)  
+  -  桌面应用开发
+    - Rust + GTK 组合
+  - Linux 运维
+    - nix、k8s
+  - AI框架
+    - pytorch
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Scratch
