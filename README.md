@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ： (update on 2024.8.9)
   -  前端：Angular
   -  后端：go
-    - 框架：go-zero
-    - 消息队列：asynq
+      - 框架：go-zero
+      - 消息队列：asynq
 
 - 😍 I plan to try : (update on 2024.8.9)  
   -  桌面应用开发
-    - Rust + GTK 组合
+      - Rust + GTK 组合
   - Linux 运维
-    - nix、k8s
+      - nix、k8s
   - AI框架
-    - pytorch
+      - pytorch
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
