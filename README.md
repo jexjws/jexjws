@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 😍 I plan to try : (update on 2024.8.9)  
   -  桌面应用开发
+      - flutter
       - Rust + GTK 组合
   - Linux 运维
       - nix、k8s
