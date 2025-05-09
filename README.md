@@ -1,5 +1,5 @@
 What's Happening??!   
-T1 . 过好每一天   
+T1 . [过好每一天](https://www.bilibili.com/bangumi/play/ep96936)                  
 WTF World   
 
 
@@ -11,18 +11,18 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently joined in YangHuaTeam and FairyLightsStudio
 
-- 🌱 I’m currently learning ： (update on 2024.8.9)
+- 🌱 I’m currently learning ： (update on 2025.5.9)
   -  前端：Angular
   -  后端：go
-      - 框架：go-zero
-      - 消息队列：asynq
-
-- 😍 I plan to try : (update on 2024.8.9)  
-  -  桌面应用开发
-      - flutter
-      - Rust + GTK 组合
+  -  后端：Rust
+      - 框架：takio
+  - 信息传输：nats.io
   - Linux 运维
-      - nix、k8s
+      - 云原生：k8s ...
+
+- 😍 I plan to try : (update on 2025.5.9)  
+  - Linux 运维
+      - nix
   - AI框架
       - pytorch
 
