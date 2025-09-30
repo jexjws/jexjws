@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 🐧 Linux 相关
 -------------------
 
+| Link | Description |
+| ----------- | ----------- |
 |https://explainshell.com | 解释linux指令   |
 |https://fishshell.com | 类似于 zsh 的 shell , 但开箱即用 , 无需 zsh 那样较繁琐配置    |
 |https://cockpit-project.org | 一款有 Red Hat 赞助开发的一款 web 服务器管理面板（为 Linux、Systemd 量身打造，仅支持一些主流Linux发行版）。      |
@@ -63,6 +65,8 @@ Here are some ideas to get you started:
 
 📱 各种 APP
 -------------------
+| Link | Description |
+| ----------- | ----------- |
 | [小企鹅输入法5](https://github.com/fcitx5-android/fcitx5-android) |  [Android]fcitx5移植到了安卓上面，我觉得比Gboard好用。 |
 |[blanket](https://github.com/rafaelmardojai/blanket)|白噪音生成器|
 |https://joplinapp.org | 你的开源开放可跨平台同步赛博笔记本，支持从 Onedrive、webdav、filesystem 等源进行同步，数据由你控制，浏览器拓展（一键把网页内容收藏到选定笔记本中）还有端到端加密功能更是如虎添翼|
