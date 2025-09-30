@@ -18,7 +18,7 @@ Here are some ideas to get you started:
       - 框架：tokio
       - 框架：volo
       - 框架：待定，我对 Actor 模型特别感兴趣，Actor 模型在游戏服务器等领域得到了很好的应用（[参见](https://huahua132.github.io/2023/05/07/skynet_frame/actor/)，以及 discord 在用的 Erlang），如果说 `未来互联网上的一切活动都会像一个角色扮演游戏` （摘自 [体验引擎](https://book.douban.com/subject/26323699/)
-）的话，大型MMO游戏所使用的后端技术 很有可能是 未来web大型应用所用后端技术的走向，如果不是，我觉得将其应用到web应用上也会爆发出极大的灵活性。我目前正在 Rust 这边探索 Actor 模型相关框架。
+）的话，大型MMO游戏所使用的后端技术 很有可能是 当下未来web大型应用所用后端技术 的 未来走向，如果不是，我觉得将其应用到web应用上也会爆发出极大的灵活性。我目前正在 Rust 这边探索 Actor 模型相关框架。
   - 信息传递：nats.io
   - Linux 运维
       - 云原生：k8s ...
