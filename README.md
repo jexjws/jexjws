@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 -------------------
 | Link | Description |
 | ----------- | ----------- |
-|https://www.talos.dev | 特别的 Linux 发行版，[只专注于通过k8s运行容器这一件事，从而使这件事做到了极致](https://docs.siderolabs.com/talos/v1.12/learn-more/philosophy)   |
+|https://www.talos.dev | 特别的 Linux 发行版，[只专注于通过k8s运行容器这一件事，把这件事做到了极致](https://docs.siderolabs.com/talos/v1.12/learn-more/philosophy)   |
 
 🐧 Linux 相关
 -------------------
