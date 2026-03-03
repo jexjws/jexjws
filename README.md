@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 | ----------- | ----------- |
 | [super-productivity](https://github.com/johannesjo/super-productivity) | 升级版的 To Do应用|
 | [zulip](https://zulip.com/) | 有点像 super-productivity 多人协作版 |
-
+| [Yanyan's Wiki](https://jyywiki.cn/)| 操作系统课、[科研劝退信](https://jyywiki.cn/Letter.md) |
 | [CS自学指南](https://csdiy.wiki/) | 这个网站指向的知识几乎肯定比普通的大学老师讲的质量要高 |
 |https://pandoc.org | 文件格式互转工具,非常强大 |   
 |[https://revi.cc](https://revi.cc)、[https://atlasos.net/](https://atlasos.net) | 精简版 windows,有无需重装系统的安装方式  |  
